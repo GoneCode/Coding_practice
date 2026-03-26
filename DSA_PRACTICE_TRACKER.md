@@ -10,7 +10,7 @@
 
 | Phase | Topic | Status | Problems Solved | Target | Completion % |
 |-------|-------|--------|-----------------|--------|--------------|
-| 1 | Programming Fundamentals | 🔄 Not Started | 0 | 20 | 0% |
+| 1 | Programming Fundamentals | 🔄 In Progress | 3 | 20 | 15% |
 | 2 | Complexity Analysis | ⏸️ Pending | 0 | 15 | 0% |
 | 3 | Arrays & Strings | ⏸️ Pending | 0 | 40 | 0% |
 | 3 | Linked Lists | ⏸️ Pending | 0 | 30 | 0% |
@@ -25,7 +25,7 @@
 | 7 | Dynamic Programming | ⏸️ Pending | 0 | 50 | 0% |
 | 7 | Backtracking | ⏸️ Pending | 0 | 20 | 0% |
 
-**Total Problems Solved:** 0 / 395
+**Total Problems Solved:** 3 / 395
 
 ---
 
@@ -49,21 +49,26 @@
 
 ### March 2026
 
-#### Day 1 - Wednesday, Mar 26
-- **Time Spent:** ___ hours
-- **Problems Solved:** 0
+#### Day 1 - Wednesday, Mar 26 ✅ COMPLETED
+- **Time Spent:** 2-3 hours
+- **Problems Solved:** 3
 - **Topics Covered:**
-  - [ ]
+  - [x] Variables and Data Types
+  - [x] Operators (Arithmetic, Comparison, Logical)
+  - [x] Basic Input/Output (Scanner)
+  - [x] Conditional Statements (if/else)
 - **Problems:**
-  - [ ] Easy: _________________ (Link: _____)
-  - [ ] Easy: _________________ (Link: _____)
-  - [ ] Easy: _________________ (Link: _____)
+  - [x] Easy: Sum of Two Numbers
+  - [x] Easy: Check Even or Odd
+  - [x] Easy: Find Largest of 3 Numbers
 - **Notes/Learnings:**
-  -
+  - Learned Scanner class for input
+  - Understood modulo operator for even/odd checks
+  - Practiced if-else conditional logic
 - **Struggled With:**
-  -
+  - None reported
 - **To Review:**
-  -
+  - Integer division vs decimal division
 
 #### Day 2 - Thursday, Mar 27
 - **Time Spent:** ___ hours
@@ -88,9 +93,9 @@
 ### Phase 1: Programming Fundamentals (20 problems)
 
 **Basic I/O and Operators**
-- [ ] Sum of two numbers
-- [ ] Check if number is even/odd
-- [ ] Find largest of 3 numbers
+- [x] Sum of two numbers
+- [x] Check if number is even/odd
+- [x] Find largest of 3 numbers
 - [ ] Simple calculator (+, -, *, /)
 - [ ] Swap two numbers
 
@@ -715,7 +720,7 @@ Track your confidence level with each difficulty:
 
 | Difficulty | Target | Solved | Percentage |
 |------------|--------|--------|------------|
-| Easy | 150 | 0 | 0% |
+| Easy | 150 | 3 | 2% |
 | Medium | 200 | 0 | 0% |
 | Hard | 45 | 0 | 0% |
 
