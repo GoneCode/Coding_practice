@@ -70,7 +70,7 @@
 - **To Review:**
   - Integer division vs decimal division
 
-#### Day 2 - Thursday, Mar 27
+#### Day 2 - Wednesday, Apr 1
 - **Time Spent:** ___ hours
 - **Problems Solved:** 0
 - **Topics Covered:**
