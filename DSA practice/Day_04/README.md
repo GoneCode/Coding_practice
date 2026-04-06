@@ -1,4 +1,4 @@
-# Day 04 - DSA Practice Plan
+# Day_04 - DSA Practice Plan
 
 ## Pomodoro Schedule (Total: 4 Pomodoros = 2 hours)
 
@@ -57,7 +57,7 @@
    - Find the second largest element in array
    - Handle edge cases (duplicates, small arrays)
 
-**✅ Long Break: 15-30 minutes** - Good job! You've completed Day 04!
+**✅ Long Break: 15-30 minutes** - Good job! You've completed Day_04!
 
 ---
 
